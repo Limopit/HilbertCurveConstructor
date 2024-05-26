@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CUser_005CDesktop_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresources_005CHilbert2d_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CUser_005CDesktop_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresources_005CHilbertBuilder3d_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CUser_005CDesktop_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresources_005CHilbert_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CUser_005CDesktop_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresources_005CMWArray_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CUser_005CDesktop_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresources_005CPythagor_005Ftree_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CUser_005CDesktop_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresource_005CHilbert_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005CUser_005CDesktop_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresource_005CMWArray_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresources_005CHilbert3d_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresources_005CHilbertBuilder3d_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresources_005CHilbert_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresources_005CHilbert2d_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CHilbertCurveConstructor_005CHilbertCurveConstructor_005Cresources_005CMWArray_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer /&gt;</s:String></wpf:ResourceDictionary>
